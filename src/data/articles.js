@@ -52,6 +52,24 @@ const articles = [
     date: '2 апреля 2026',
     tag: 'Git',
     image: 'https://picsum.photos/seed/git6/400/250'
+  },
+    {
+    id: 7,
+    title: 'Введение в TypeScript',
+    excerpt: 'Зачем нужна типизация в JavaScript и как начать использовать TS в React-проектах.',
+    author: 'Алексей Соколов',
+    date: '5 апреля 2026',
+    tag: 'TypeScript',
+    image: 'https://picsum.photos/seed/ts7/400/250'
+  },
+  {
+    id: 8,
+    title: 'Анимации в CSS',
+    excerpt: 'Изучаем transition и keyframes для создания плавных и красивых интерфейсов.',
+    author: 'Елена Смирнова',
+    date: '10 апреля 2026',
+    tag: 'Анимации',
+    image: 'https://picsum.photos/seed/css8/400/250'
   }
 ];
 
